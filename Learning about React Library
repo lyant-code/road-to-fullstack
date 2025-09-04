@@ -1,0 +1,10 @@
+04/09/2025
+Progress:
+1). I started learning React Library.
+2). Learning the basics of JSX.
+3).Studied the rules about creating component functions.
+
+Note:
+1). JSX allows writing HTML-like syntax directly inside JavaScript.
+2). Function components must start with a uppercase (e.g., App, Header).
+3). Components are reusable, which make code more modular and easier to maintain. 
